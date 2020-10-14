@@ -1,2 +1,0 @@
-C:\Users\ZeroT\Desktop\Sample\Snake_Game\x64\Debug\Snake_Game.exe
-C:\Users\ZeroT\Desktop\Sample\Snake_Game\x64\Debug\Snake_Game.pdb

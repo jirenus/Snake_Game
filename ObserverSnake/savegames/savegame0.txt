@@ -1,0 +1,12 @@
+4
+ClassicMap1.dat
+ClassicMap2.dat
+ModernMap1.dat
+ModernMap2.dat
+1
+93 13
+100
+80 13
+79 13
+78 13
+77 13

@@ -1,0 +1,3 @@
+ClassicMap1.dat
+55 16
+56 13
